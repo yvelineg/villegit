@@ -7,3 +7,5 @@ London
 Roma
 Sydney
 Canberra
+Tunis
+Marrakech
