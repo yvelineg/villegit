@@ -5,3 +5,4 @@ London
 Roma
 Sydney
 Canberra
+Auckland
